@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 230" role="img" aria-label="معاينة دوائر التصنيفات الذهبية">
+ <rect width="720" height="230" rx="18" fill="#faf8f2"/><text x="360" y="36" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#252525">تسوق حسب التصنيف</text>
+ <g><circle cx="135" cy="112" r="52" fill="#eee4d4" stroke="#c9a45c" stroke-width="5"/><circle cx="285" cy="112" r="52" fill="#eee4d4" stroke="#c9a45c" stroke-width="5"/><circle cx="435" cy="112" r="52" fill="#eee4d4" stroke="#c9a45c" stroke-width="5"/><circle cx="585" cy="112" r="52" fill="#eee4d4" stroke="#c9a45c" stroke-width="5"/></g>
+ <g font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#333" text-anchor="middle"><text x="135" y="190">ملابس</text><text x="285" y="190">حقائب</text><text x="435" y="190">عطور</text><text x="585" y="190">إكسسوارات</text></g>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" role="img" aria-label="معاينة تبويبات المنتجات">
+ <rect width="720" height="300" rx="18" fill="#f7f8fa"/><text x="360" y="38" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#252525">اختاري المفضلة لك</text>
+ <g font-family="Arial,sans-serif" font-size="14" text-anchor="middle"><rect x="148" y="56" width="120" height="38" rx="19" fill="#153c35"/><text x="208" y="80" fill="#fff">وصل حديثًا</text><rect x="282" y="56" width="128" height="38" rx="19" fill="#fff" stroke="#d7dce1"/><text x="346" y="80" fill="#444">الأكثر مبيعًا</text><rect x="424" y="56" width="128" height="38" rx="19" fill="#fff" stroke="#d7dce1"/><text x="488" y="80" fill="#444">العروض</text></g>
+ <g><rect x="50" y="112" width="145" height="162" rx="10" fill="#e8ddd1"/><rect x="210" y="112" width="145" height="162" rx="10" fill="#c5cfc7"/><rect x="370" y="112" width="145" height="162" rx="10" fill="#e2d4cf"/><rect x="530" y="112" width="145" height="162" rx="10" fill="#d2cbd8"/></g>
+</svg>
