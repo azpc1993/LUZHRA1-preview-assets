@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" role="img" aria-label="معاينة تسوق حسب الستايل">
+  <rect width="720" height="300" rx="18" fill="#f4f0eb"/>
+  <text x="360" y="38" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#262626">تسوّق حسب الستايل</text>
+  <g>
+    <rect x="38" y="62" width="150" height="210" rx="12" fill="#c5b7a6"/>
+    <rect x="205" y="62" width="150" height="210" rx="12" fill="#8e9b91"/>
+    <rect x="372" y="62" width="150" height="210" rx="12" fill="#b59e91"/>
+    <rect x="539" y="62" width="143" height="210" rx="12" fill="#8e8794"/>
+  </g>
+  <g fill="#fff" font-family="Arial,sans-serif" font-size="16" font-weight="700">
+    <text x="56" y="240">الملابس</text><text x="224" y="240">حقائب</text>
+    <text x="390" y="240">إكسسوارات</text><text x="556" y="240">الجديد</text>
+  </g>
+  <g fill="#fff" opacity=".8"><path d="M153 240h15l-6-6m6 6-6 6"/><path d="M320 240h15l-6-6m6 6-6 6"/><path d="M487 240h15l-6-6m6 6-6 6"/><path d="M645 240h15l-6-6m6 6-6 6"/></g>
+</svg>

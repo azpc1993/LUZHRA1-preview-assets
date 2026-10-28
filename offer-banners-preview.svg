@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 280" role="img" aria-label="معاينة بانرات العروض">
+ <rect width="720" height="280" rx="18" fill="#f5f5f4"/><text x="360" y="38" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#252525">عروض المتجر</text>
+ <rect x="35" y="62" width="315" height="190" rx="14" fill="#b89f8e"/><rect x="370" y="62" width="315" height="190" rx="14" fill="#66736c"/>
+ <g font-family="Arial,sans-serif" fill="#fff"><rect x="55" y="80" width="104" height="26" rx="13" fill="#8f3b32"/><text x="107" y="98" text-anchor="middle" font-size="12">خصم ٣٠٪</text><text x="322" y="172" text-anchor="end" font-size="23" font-weight="700">تسوقي الجديد</text><text x="322" y="204" text-anchor="end" font-size="14">اختيارات هذا الموسم</text><text x="322" y="233" text-anchor="end" font-size="13">اكتشفي العرض ←</text>
+ <rect x="390" y="80" width="104" height="26" rx="13" fill="#b48a38"/><text x="442" y="98" text-anchor="middle" font-size="12">لفترة محدودة</text><text x="657" y="172" text-anchor="end" font-size="23" font-weight="700">إكسسوارات مميزة</text><text x="657" y="204" text-anchor="end" font-size="14">عروض على القطع المختارة</text><text x="657" y="233" text-anchor="end" font-size="13">تسوق الآن ←</text></g>
+</svg>
